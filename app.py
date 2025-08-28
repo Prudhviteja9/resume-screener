@@ -160,6 +160,3 @@ if run_btn:
     # CSV download
     csv = df.to_csv(index=False).encode("utf-8")
     st.download_button("⬇️ Download CSV", csv, file_name="resume_ranking.csv", mime="text/csv")
-
-
-
