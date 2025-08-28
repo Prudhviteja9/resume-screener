@@ -1,0 +1,12 @@
+Data Scientist (NLP/Analytics) — West Palm Beach, FL
+
+We are seeking a Data Scientist with 3+ years of experience to build NLP and analytics products.
+Must-have: Python, Pandas, NumPy, scikit-learn, SQL, NLP, Transformers/Hugging Face, LangChain, RAG.
+Strong plus: PyTorch, TensorFlow, Docker, Git, Airflow, dbt, Spark/Databricks, AWS (S3, EC2, Lambda), Tableau/Power BI.
+Nice to have: FastAPI/Flask, MLflow, A/B testing, Experiment Design, Kubernetes, Vertex AI.
+
+Responsibilities:
+- Build and deploy NLP pipelines (tokenization, BERT/GPT, embeddings, retrieval, RAG).
+- Design ETL with Airflow/dbt, build dashboards (Tableau/Power BI).
+- Partner with product to run A/B tests with statistical rigor.
+
